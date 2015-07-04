@@ -1,0 +1,4 @@
+Fri 2015/07/03 01:58:20 gammu-smsd[5304]: Warning: No PIN code in smsdrc file
+Fri 2015/07/03 01:58:20 gammu-smsd[5304]: Created Windows RW shared memory at 00440000
+Fri 2015/07/03 01:58:20 gammu-smsd[5304]: Starting phone communication...
+Fri 2015/07/03 01:58:28 gammu-smsd[5304]: Message without SMSC, assuming you want to use the one from phone

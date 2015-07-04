@@ -1,0 +1,23 @@
+; This file format was designed for Gammu and is compatible with Gammu+
+; See <http://www.gammu.org> for more info
+; Saved 20150703T015700 (7/3/2015 1:57:00 AM (Fri))
+
+[SMSBackup000]
+; Hello World
+PDU = Submit
+DateTime = 20150703T015700Z
+State = Sent
+Number = "085290140758"
+NumberUnicode = 003000380035003200390030003100340030003700350038
+Name = ""
+NameUnicode = 
+Text00 = 00480065006C006C006F00200057006F0072006C0064
+Coding = Default_No_Compression
+Folder = 1
+Length = 11
+Class = -1
+ReplySMSC = False
+RejectDuplicates = False
+ReplaceMessage = 0
+MessageReference = 0
+
